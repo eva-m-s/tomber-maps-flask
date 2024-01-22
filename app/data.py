@@ -1112,7 +1112,7 @@ graves=[
             51.142969,
             16.8593
         ],
-        "name": "Babcia"
+        "name": "Dziadkowie"
     },
     {
         "id": 2,
@@ -1120,7 +1120,7 @@ graves=[
             51.142986,
             16.861176
         ],
-        "name": "Wujek"
+        "name": "Reksio"
     },
     {
         "id": 3,
@@ -1128,7 +1128,7 @@ graves=[
             51.142624,
             16.860773
         ],
-        "name": "Pani Halinka"
+        "name": "Tesciowa"
     },
     {
         "id": 4,
@@ -1136,6 +1136,14 @@ graves=[
             51.17065,
             17.10372
         ],
-        "name": "Pan Antoni"
-    }
+        "name": "Szwagier"
+    },
+    {
+        "id": 5,
+        "coordinates": [
+            51.17123,
+            17.10267
+        ],
+        "name": "Wujek"
+    },
 ]
